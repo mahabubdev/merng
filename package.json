@@ -1,0 +1,24 @@
+{
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "MERNG stack",
+  "main": "server.js",
+  "author": "mahabubdev",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^2.21.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  }
+}
