@@ -1,4 +1,4 @@
-# MERNG => MongoDB + ExpressJS + React + NodeJS + GraphQL `Apollo`
+# `MERNG` => MongoDB + ExpressJS + React + NodeJS + `GraphQL` Apollo
 ## Learning and developing full-stack social media webapp with Apollo-GraphQL
 
 ### Some other things
